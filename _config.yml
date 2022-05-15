@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Research.md", title: "Research"}
   - {file: "Publication.md", title: "Publication"}
-  - {file: "./CV_ZhouYu.pdf", title: "CV"}
+  - {url: "https://github.com/Zhou-Joe-Yu/zhou-joe-yu.github.io/blob/master/CV_ZhouYu.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
