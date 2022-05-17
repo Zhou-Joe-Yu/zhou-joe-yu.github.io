@@ -3,13 +3,7 @@ layout: page
 title: "Welcome"
 ---
 
-![Headshot](./assets/headshot.JPG | width=300px) 
-
-![Headshot][[./assets/headshot.JPG|width=100px]]
-
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="./assets/headshot.JPG" width="200" height="400" />
-
-<img src="./assets/headshot.JPG" width="100" height="100">
+<img src="./assets/headshot.JPG" width="200" height="267">
 
 I am Zhou (Joe) Yu, a postdoc research associate in the Theoretical Division at Los Alamos National Laboratory since November 2021. I have received my first postdoc training in the Materials Science Division at Argonne National Laboratory from February 2019 to November 2021. I earned my Ph.D. in the Department of Mechanical Engineering at Virginia Tech in December 2018.
 
