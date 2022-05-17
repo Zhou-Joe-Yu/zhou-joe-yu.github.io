@@ -15,9 +15,12 @@ My doctoral research explored the interfacial phenomena (e.g. electrical double 
 
 **EDUCATION**
 
-Ph.D. in Mechanical Engineering, 12/2018                 			 
+Ph.D. in Mechanical Engineering, 12/2018     
+
 Virginia Tech, Blacksburg, VA, USA	   	 GPA: 3.85/4.0
+
     Dissertation: “Molecular structure and dynamics of novel polymer electrolytes featuring coulombic liquids”
+    
     Advisor: Prof. Rui Qiao
 
 M.E. in Engineering Thermophysics, 6/2015
