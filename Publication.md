@@ -72,6 +72,10 @@ layout: page
 
 (2) Fang, C.; **Yu, Z.**; Qiao, R., Impact of Surface Ionization on Water Transport and Salt Leakage through Graphene Oxide Membranes. The Journal of Physical Chemistry C 2017, 121, 13412-13420. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpcc.7b04283)
 
+<p align="center">
+<img src="./assets/JPCC_2017.png" height="250">
+</p>
+
 (1) **Yu, Z.**; He, Y.; Wang, Y.; Madsen, L. A.; Qiao, R., Molecular Structure and Dynamics of Ionic Liquids in a Rigid-Rod Polyanion-Based Ion Gel. Langmuir 2017, 33, 322-331. [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b03798)
 
 
