@@ -8,6 +8,8 @@ title: "Welcome"
 <img src="./assets/headshot.JPG" width="200" height="200"> 
 </p>
 
+<img src="./assets/headshot.JPG" width="200" height="200"> 
+
 ![VT_LOGO](./assets/vt.png)
 
 <p align="center">
