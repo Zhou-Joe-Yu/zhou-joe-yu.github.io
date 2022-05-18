@@ -34,6 +34,10 @@ layout: page
 
 (11)	Zhao, Y.#; **Yu, Z.#**; Robertson, L. A.; Zhang, J.; Shi, Z.; Bheemireddy, S. R.; Shkrob, I. A.; Li, T.; Zhang, Z.; Cheng, L.; Zhang, L., Unexpected Electrochemical Behavior of an Anolyte Redoxmer in Flow Battery Electrolytes: Solvating Cations Help to Fight against the Thermodynamic–Kinetic Dilemma. Journal of Materials Chemistry A 2020, 8, 13470-13479. [LINK](https://pubs.rsc.org/en/content/articlelanding/2020/ta/d0ta02214d)
 
+<p align="center">
+<img src="./assets/JMCA_2020.png" height="250">
+</p>
+
 (10)	**Yu, Z.**; Curtiss, L. A.; Winans, R. E.; Zhang, Y.; Li, T.; Cheng, L., Asymmetric Composition of Ionic Aggregates and the Origin of High Correlated Transference Number in Water-in-Salt Electrolytes. The Journal of Physical Chemistry Letters 2020, 11, 1276-1281. [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03495)
 
 <p align="center">
