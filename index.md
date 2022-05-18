@@ -3,8 +3,7 @@ layout: page
 title: "Welcome"
 ---
 
-
-<img src="./assets/headshot.JPG" width="200" height="200">  
+<img align="left" src="./assets/headshot.JPG" width="200" height="200">  
 Zhou Yu
 Postdoc Research Associate
 Los Alamos National Laboratory
