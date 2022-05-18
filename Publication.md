@@ -12,18 +12,6 @@ layout: page
 
 (16)	**Yu, Z.**; Balsara, N. P.; Borodin, O.; Gewirth, A. A.; Hahn, N. T.; Maginn, E. J.; Persson, K.; Srinivasan, V.; Toney, M. F.; Xu, K.; Zavadil, K.; Curtiss, L. A.; Cheng, L., Beyond Local Solvation Structure:  Nanometric Aggregates in Battery Electrolytes and their Effect on Electrolyte Properties. ACS Energy Letters 2022, 7, 461-470. [LINK](https://pubs.acs.org/doi/10.1021/acsenergylett.1c02391)
 
-<p align="center">
-<img src="https://zhou-joe-yu.github.io/assets/ACS_EL_2022.png" height="250">
-</p>
-
-<p align="center">
-<img src="https://zhou-joe-yu.github.io/assets/ACS_EL_2022.png" width="300" height="250">
-</p>
-
-<center>
-    <img src="https://zhou-joe-yu.github.io/assets/ACS_EL_2022.png" height="250">
-</center>
-
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/ACS_EL_2022.png" width="300" height="250">
 </center>
