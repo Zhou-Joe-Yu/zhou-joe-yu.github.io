@@ -1,6 +1,5 @@
 ---
-layout: post
-categories: publication
+layout: page
 ---
 
 **Represetative Peer Reviewed Journal Papers** (**#equal contribution**)
@@ -14,10 +13,8 @@ categories: publication
 (16)	**Yu, Z.**; Balsara, N. P.; Borodin, O.; Gewirth, A. A.; Hahn, N. T.; Maginn, E. J.; Persson, K.; Srinivasan, V.; Toney, M. F.; Xu, K.; Zavadil, K.; Curtiss, L. A.; Cheng, L., Beyond Local Solvation Structure:  Nanometric Aggregates in Battery Electrolytes and their Effect on Electrolyte Properties. ACS Energy Letters 2022, 7, 461-470. [LINK](https://pubs.acs.org/doi/10.1021/acsenergylett.1c02391)
 
 <p align="center">
-<img src="./assets/ACS_EL_2022.png" height="250">
+<img src="https://github.com/Zhou-Joe-Yu/zhou-joe-yu.github.io/blob/master/assets/ACS_EL_2022.png" height="250">
 </p>
-
-<img src="./assets/headshot.JPG" width="200" height="200"> 
 
 <img src="https://github.com/Zhou-Joe-Yu/zhou-joe-yu.github.io/blob/master/assets/headshot.JPG">
 
@@ -28,7 +25,7 @@ categories: publication
 </p>
 
 <center>
-    <img src="./assets/ACS_EL_2022.png" width="300" height="150">
+    <img src="https://github.com/Zhou-Joe-Yu/zhou-joe-yu.github.io/blob/master/assets/ACS_EL_2022.png" width="300" height="150">
 </center>
 
 (15)	Qian, K.#; **Yu, Z.#**; Liu, Y.; Gosztola, D. J.; Winans, R. E.; Cheng, L.; Li, T., Understanding Fluorine-Free Electrolytes via Small-Angle X-Ray Scattering. Journal of Energy Chemistry 2022, 70, 340-346. [LINK](https://www.sciencedirect.com/science/article/pii/S2095495622001127) 
