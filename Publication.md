@@ -19,7 +19,7 @@ layout: page
 (15)	Qian, K.#; **Yu, Z.#**; Liu, Y.; Gosztola, D. J.; Winans, R. E.; Cheng, L.; Li, T., Understanding Fluorine-Free Electrolytes via Small-Angle X-Ray Scattering. Journal of Energy Chemistry 2022, 70, 340-346. [LINK](https://www.sciencedirect.com/science/article/pii/S2095495622001127) 
 
 <p align="center">
-<img src="./assets/JEC_2022.png" height="250">
+<img src="./assets/JEC_2022.jpg" height="250">
 </p>
 
 (14)	Wen, X.; **Yu, Z.**; Zhao, Y.; Zhang, J.; Qiao, R.; Cheng, L.; Ban, C.; Guo, J., Enabling Magnesium Anodes by Tuning the Electrode/Electrolyte Interfacial Structure. ACS Applied Materials & Interfaces 2021, 13, 52461-52468. [LINK](https://pubs.acs.org/doi/abs/10.1021/acsami.1c10446)
