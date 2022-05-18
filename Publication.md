@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+categories: publication
 ---
 
 **Represetative Peer Reviewed Journal Papers** (**#equal contribution**)
