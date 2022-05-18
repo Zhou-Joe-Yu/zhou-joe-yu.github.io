@@ -103,7 +103,7 @@ layout: page
 (1) **Yu, Z.**; He, Y.; Wang, Y.; Madsen, L. A.; Qiao, R., Molecular Structure and Dynamics of Ionic Liquids in a Rigid-Rod Polyanion-Based Ion Gel. Langmuir 2017, 33, 322-331. [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b03798)
 
 <p align="center">
-<img src="./assets/Langmuir_2017.png" height="250">
+<img src="./assets/Langmuir_2017.png" height="300">
 </p>
 
 
