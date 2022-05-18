@@ -60,6 +60,10 @@ layout: page
 
 (6)	**Yu, Z.**; Yang, F.; Dai, S.; Qiao, R., Structure and Dynamics of Polymeric Canopies in Nanoscale Ionic Materials: An Electrical Double Layer Perspective. Scientific Reports 2018, 8, 1-11. [LINK](https://www.nature.com/articles/s41598-018-23493-1)
 
+<p align="center">
+<img src="./assets/SR_2018.png" height="300">
+</p>
+
 (5)	**Yu, Z.**; Fang, C.; Huang, J.; Sumpter, B. G.; Qiao, R., Solvate Ionic Liquids at Electrified Interfaces. ACS Applied Materials & Interfaces 2018, 10, 32151-32161. [LINK](https://pubs.acs.org/doi/10.1021/acsami.8b10387)
 
 (4)	**Yu, Z.**; Fang, C.; Huang, J.; Sumpter, B. G.; Qiao, R., Molecular Structure and Dynamics of Interfacial Polymerized Ionic Liquids. The Journal of Physical Chemistry C 2018, 122, 22494-22503. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b06065)
