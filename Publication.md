@@ -24,6 +24,10 @@ layout: page
 
 (14)	Wen, X.; **Yu, Z.**; Zhao, Y.; Zhang, J.; Qiao, R.; Cheng, L.; Ban, C.; Guo, J., Enabling Magnesium Anodes by Tuning the Electrode/Electrolyte Interfacial Structure. ACS Applied Materials & Interfaces 2021, 13, 52461-52468. [LINK](https://pubs.acs.org/doi/abs/10.1021/acsami.1c10446)
 
+<p align="center">
+<img src="./assets/ACS_AMI_2021.png" height="250">
+</p>
+
 (13)	**Yu, Z.**; Juran, T. R.; Liu, X.; Han, K. S.; Wang, H.; Mueller, K. T.; Li, T.; Curtiss, L. A.; Cheng, L., Solvation Structure and Dynamics of Mg(TFSI)2 Aqueous Electrolyte. Energy & Environmental Materials 2021, 0, 1-10. [LINK](https://onlinelibrary.wiley.com/doi/full/10.1002/eem2.12174)
 
 <p align="center">
@@ -50,6 +54,10 @@ layout: page
 
 (9)	Hahn, N. T.; Driscoll, D. M.; **Yu, Z.**; Sterbinsky, G. E.; Cheng, L.; Balasubramanian, M.; Zavadil, K. R., The Influence of Ether Solvent and Anion Coordination on Electrochemical Behavior in Calcium Battery Electrolytes. ACS Applied Energy Materials 2020, 3, 8337-8447. [LINK](https://pubs.acs.org/doi/10.1021/acsaem.0c01070)
 
+<p align="center">
+<img src="./assets/ACS_AEM_2020.png" height="250">
+</p>
+
 (8)	Wang, Y.; He, Y.; **Yu, Z.**; Gao, J.; Ten Brinck, S.; Slebodnick, C.; Fahs, G. B.; Zanelotti, C. J.; Hegde, M.; Moore, R. B.; Ensing, B.; Dingemans, T. J.; Qiao, R.; Madsen, L. A., Double Helical Conformation and Extreme Rigidity in a Rodlike Polyelectrolyte. Nature Communications 2019, 10, 1-8. [LINK](https://www.nature.com/articles/s41467-019-08756-3)
 
 <p align="center">
@@ -57,6 +65,10 @@ layout: page
 </p>
 
 (7)	Jiang, Z.-L.; Xu, G.-L.; **Yu, Z.**; Zhou, T.-H.; Shi, W.-K.; Luo, C.-S.; Zhou, H.-J.; Chen, L.-B.; Sheng, W.-J.; Zhou, M.; Cheng, L.; Assary, R. S.; Sun, S.-G.; Amine, K.; Sun, H., High Rate and Long Cycle Life in Li-O2 Batteries with Highly Efficient Catalytic Cathode Configured with Co3O4 Nanoflower. Nano Energy 2019, 64, 103896. [LINK](https://www.sciencedirect.com/science/article/pii/S2211285519306032)
+
+<p align="center">
+<img src="./assets/NE_2019.png" height="250">
+</p>
 
 (6)	**Yu, Z.**; Yang, F.; Dai, S.; Qiao, R., Structure and Dynamics of Polymeric Canopies in Nanoscale Ionic Materials: An Electrical Double Layer Perspective. Scientific Reports 2018, 8, 1-11. [LINK](https://www.nature.com/articles/s41598-018-23493-1)
 
@@ -78,6 +90,10 @@ layout: page
 
 (3)	**Yu, Z.**; Zhang, F.; Huang, J.; Sumpter, B. G.; Qiao, R., Ionic Liquids-Mediated Interactions between Nanorods. The Journal of Chemical Physics 2017, 147, 134704. [LINK](https://aip.scitation.org/doi/10.1063/1.5005541)
 
+<p align="center">
+<img src="./assets/JCP_2017.png" height="250">
+</p>
+
 (2) Fang, C.; **Yu, Z.**; Qiao, R., Impact of Surface Ionization on Water Transport and Salt Leakage through Graphene Oxide Membranes. The Journal of Physical Chemistry C 2017, 121, 13412-13420. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpcc.7b04283)
 
 <p align="center">
@@ -86,6 +102,9 @@ layout: page
 
 (1) **Yu, Z.**; He, Y.; Wang, Y.; Madsen, L. A.; Qiao, R., Molecular Structure and Dynamics of Ionic Liquids in a Rigid-Rod Polyanion-Based Ion Gel. Langmuir 2017, 33, 322-331. [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.6b03798)
 
+<p align="center">
+<img src="./assets/Langmuir_2017.png" height="250">
+</p>
 
 
 Book Chapter
