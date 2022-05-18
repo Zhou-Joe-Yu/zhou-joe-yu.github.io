@@ -15,6 +15,8 @@ layout: page
 <p align="center">
 <img src="./assets/ACS_EL_2022.png" height="250">
 </p>
+
+<img src="./assets/headshot.JPG" width="200" height="200"> 
   
 (15)	Qian, K.#; **Yu, Z.#**; Liu, Y.; Gosztola, D. J.; Winans, R. E.; Cheng, L.; Li, T., Understanding Fluorine-Free Electrolytes via Small-Angle X-Ray Scattering. Journal of Energy Chemistry 2022, 70, 340-346. [LINK](https://www.sciencedirect.com/science/article/pii/S2095495622001127) 
 
