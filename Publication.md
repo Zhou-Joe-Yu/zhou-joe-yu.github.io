@@ -19,7 +19,14 @@ layout: page
 <img src="./assets/headshot.JPG" width="200" height="200"> 
 
 <img src="https://github.com/Zhou-Joe-Yu/zhou-joe-yu.github.io/blob/master/assets/headshot.JPG">
-  
+
+<img src="https://github.com/Zhou-Joe-Yu/zhou-joe-yu.github.io/blob/master/assets/headshot.JPG" width="200" height="200">
+
+<p align="center">
+<img src="https://github.com/Zhou-Joe-Yu/zhou-joe-yu.github.io/blob/master/assets/headshot.JPG" width="200" height="200">
+</p>
+
+
 (15)	Qian, K.#; **Yu, Z.#**; Liu, Y.; Gosztola, D. J.; Winans, R. E.; Cheng, L.; Li, T., Understanding Fluorine-Free Electrolytes via Small-Angle X-Ray Scattering. Journal of Energy Chemistry 2022, 70, 340-346. [LINK](https://www.sciencedirect.com/science/article/pii/S2095495622001127) 
 
 <p align="center">
