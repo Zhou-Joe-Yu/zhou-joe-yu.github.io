@@ -32,6 +32,10 @@ layout: page
 
 (12)	Zhao, C.; Xu, G.-L.; **Yu, Z.**; Zhang, L.; Huang, I.; Mo, Y.-X.; Ren, Y.; Cheng, L.; Sun, C.-J.; Ren, Y.; Zuo, X.; Li, J.-T.; Sun, S.-G.; Amine, K.; Zhao, T., A High-Energy and Long-Cycling Lithium-Sulfur Pouch Cell via a Macroporous Catalytic Cathode with Double-End Binding Sites. Nature Nanotechnology 2021, 16, 166-173. [LINK](https://www.nature.com/articles/s41565-020-00797-w)
 
+<p align="center">
+<img src="./assets/NN_2021.png" height="250">
+</p>
+
 (11)	Zhao, Y.#; **Yu, Z.#**; Robertson, L. A.; Zhang, J.; Shi, Z.; Bheemireddy, S. R.; Shkrob, I. A.; Li, T.; Zhang, Z.; Cheng, L.; Zhang, L., Unexpected Electrochemical Behavior of an Anolyte Redoxmer in Flow Battery Electrolytes: Solvating Cations Help to Fight against the Thermodynamic–Kinetic Dilemma. Journal of Materials Chemistry A 2020, 8, 13470-13479. [LINK](https://pubs.rsc.org/en/content/articlelanding/2020/ta/d0ta02214d)
 
 <p align="center">
