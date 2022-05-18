@@ -68,6 +68,10 @@ layout: page
 
 (4)	**Yu, Z.**; Fang, C.; Huang, J.; Sumpter, B. G.; Qiao, R., Molecular Structure and Dynamics of Interfacial Polymerized Ionic Liquids. The Journal of Physical Chemistry C 2018, 122, 22494-22503. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b06065)
 
+<p align="center">
+<img src="./assets/JPCC_2018.png" height="250">
+</p>
+
 (3)	**Yu, Z.**; Zhang, F.; Huang, J.; Sumpter, B. G.; Qiao, R., Ionic Liquids-Mediated Interactions between Nanorods. The Journal of Chemical Physics 2017, 147, 134704. [LINK](https://aip.scitation.org/doi/10.1063/1.5005541)
 
 (2) Fang, C.; **Yu, Z.**; Qiao, R., Impact of Surface Ionization on Water Transport and Salt Leakage through Graphene Oxide Membranes. The Journal of Physical Chemistry C 2017, 121, 13412-13420. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpcc.7b04283)
