@@ -52,6 +52,10 @@ layout: page
 
 (8)	Wang, Y.; He, Y.; **Yu, Z.**; Gao, J.; Ten Brinck, S.; Slebodnick, C.; Fahs, G. B.; Zanelotti, C. J.; Hegde, M.; Moore, R. B.; Ensing, B.; Dingemans, T. J.; Qiao, R.; Madsen, L. A., Double Helical Conformation and Extreme Rigidity in a Rodlike Polyelectrolyte. Nature Communications 2019, 10, 1-8. [LINK](https://www.nature.com/articles/s41467-019-08756-3)
 
+<p align="center">
+<img src="./assets/NC_2019.png" height="250">
+</p>
+
 (7)	Jiang, Z.-L.; Xu, G.-L.; **Yu, Z.**; Zhou, T.-H.; Shi, W.-K.; Luo, C.-S.; Zhou, H.-J.; Chen, L.-B.; Sheng, W.-J.; Zhou, M.; Cheng, L.; Assary, R. S.; Sun, S.-G.; Amine, K.; Sun, H., High Rate and Long Cycle Life in Li-O2 Batteries with Highly Efficient Catalytic Cathode Configured with Co3O4 Nanoflower. Nano Energy 2019, 64, 103896. [LINK](https://www.sciencedirect.com/science/article/pii/S2211285519306032)
 
 (6)	**Yu, Z.**; Yang, F.; Dai, S.; Qiao, R., Structure and Dynamics of Polymeric Canopies in Nanoscale Ionic Materials: An Electrical Double Layer Perspective. Scientific Reports 2018, 8, 1-11. [LINK](https://www.nature.com/articles/s41598-018-23493-1)
