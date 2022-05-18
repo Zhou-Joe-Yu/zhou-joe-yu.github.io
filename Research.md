@@ -11,4 +11,18 @@ layout: page
   
   
 
-2. interfacial ...
+2. _**Interfacial and transport phenomena**_ involved in energy storage and conversion process
+
+
+
+
+
+
+3. Separation
+
+  3.1 Gas-Solid separation
+  
+  3.2 Desalination through GO membranes
+  
+  3.3 Separation of rare earth element using ionic liquids
+  
