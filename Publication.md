@@ -36,6 +36,10 @@ layout: page
 
 (10)	**Yu, Z.**; Curtiss, L. A.; Winans, R. E.; Zhang, Y.; Li, T.; Cheng, L., Asymmetric Composition of Ionic Aggregates and the Origin of High Correlated Transference Number in Water-in-Salt Electrolytes. The Journal of Physical Chemistry Letters 2020, 11, 1276-1281. [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03495)
 
+<p align="center">
+<img src="./assets/JPCL_2020.png" height="250">
+</p>
+
 (9)	Hahn, N. T.; Driscoll, D. M.; **Yu, Z.**; Sterbinsky, G. E.; Cheng, L.; Balasubramanian, M.; Zavadil, K. R., The Influence of Ether Solvent and Anion Coordination on Electrochemical Behavior in Calcium Battery Electrolytes. ACS Applied Energy Materials 2020, 3, 8337-8447. [LINK](https://pubs.acs.org/doi/10.1021/acsaem.0c01070)
 
 (8)	Wang, Y.; He, Y.; **Yu, Z.**; Gao, J.; Ten Brinck, S.; Slebodnick, C.; Fahs, G. B.; Zanelotti, C. J.; Hegde, M.; Moore, R. B.; Ensing, B.; Dingemans, T. J.; Qiao, R.; Madsen, L. A., Double Helical Conformation and Extreme Rigidity in a Rodlike Polyelectrolyte. Nature Communications 2019, 10, 1-8. [LINK](https://www.nature.com/articles/s41467-019-08756-3)
