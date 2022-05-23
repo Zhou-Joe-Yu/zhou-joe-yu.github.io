@@ -2,9 +2,9 @@
 layout: page
 ---
 
-**Represetative Peer Reviewed Journal Papers** (**#equal contribution**)
-
 **Full publications** are summarized in [**google scholar**](https://scholar.google.com/citations?hl=en&user=vdyQoyoAAAAJ&view_op=list_works&sortby=pubdate) (> 35 papers with > 650 citations)
+
+**Selected Peer Reviewed Journal Papers** (**#equal contribution**)
 
 (18)	**Yu, Z.#**; Shi, Z.#; Bheemireddy, S. R.; Qian, K.; Li, T.; Zhang, L.; Cheng, L.; Molecular Designing and Characterizing of Novel Fluorinated Ether Solvent for Li Metal Battery. (In preparation)
 
