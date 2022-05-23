@@ -30,6 +30,12 @@ My research goal is to establish simulation and theory-driven approaches (e.g., 
 </p>
 
 <center>
+    Personal Background in one figure
+</center>
+
+<h1 align="center">Personal Background in one figure</h1>
+
+<center>
     <img src="https://zhou-joe-yu.github.io/assets/LANL_group.jpg" width="650" height="330">
 </center>
 
