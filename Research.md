@@ -8,7 +8,7 @@ My research objective is to develop a fundamental understanding of nanostructure
 
 Below, I outline some of the projects.
 
-1. _**Structure-property-performace**_ relationships in novel battery electrolytes including _**liquid electrolytes**_ and _**polymer electrolytes**_
+A. _**Structure-property-performace**_ relationships in novel battery electrolytes including _**liquid electrolytes**_ and _**polymer electrolytes**_
 
 Nanostructure of battery electrolytes, especially the solvation environment of cation, is critical to affecting the property of battery electrolytes and further affecting the performance of related energy storage and conversion devices. For example, the ion pair condition can impact the ionic conductivity and the solvation structure corresponds to the electrochemical stability. High ionic conductivity is needed for supporting the high current density required for fast charging and discharging rates of energy storage devices, and wide electrochemical window will contribute to high energy density of energy storage devices. Therefore, a fundamental understanding of structure-property-performance relationship in many novel electrolytes (e.g., super-concentrated, redox-flow, multivalent, polymer, and ionic liquid-based electrolytes) is highly desired.
 
@@ -18,7 +18,7 @@ Nanostructure of battery electrolytes, especially the solvation environment of c
 
 Read about related work at:
   
-1.1. _**Liquid electrolytes**_
+a-1. _**Liquid electrolytes**_
 
 (1)	Mistry, A.; **Yu, Z.**; Peters, B. L.; Fang, C.; Wang, R.; Curtiss, L. A.; Balsara, N. P.; Cheng, L.; Srinivasan, V.; Toward Bottom-up Understanding of Transport in Concentrated Battery electrolytes, ACS Central Science 2022 (Under review)
 
@@ -36,7 +36,7 @@ Read about related work at:
 
 ......
   
-1.2. _**Polymer electrolytes**_
+a-2. _**Polymer electrolytes**_
 
 (1) Peters, B. L.; **Yu, Z.**; Redfern, P. C.; Curtiss, L. A.; Cheng, L., Effects of Salt Aggregation in Perfluoroether Electrolytes. Journal of the Electrochemical Society 2022, 169, 020506. [LINK](https://iopscience.iop.org/article/10.1149/1945-7111/ac4c7a)
 
@@ -53,7 +53,7 @@ Read about related work at:
 ......
 
 
-2. _**Interfacial and transport phenomena**_ involved in energy storage and conversion process
+B. _**Interfacial and transport phenomena**_ involved in energy storage and conversion process
 
 Interfacial properties play an important role in the performance of the energy storage and conversion facilities including batteries and supercapacitors. The study of the interface between electrolyte and electrode can be divided into two aspects. Physically, the classical theories for electric double layers (EDLs) in dilute electrolytes and high-temperature molten salts might not accurately describe EDLs at the interface between electrolytes with nanometric ionic aggregates and strongly electriofied surfaces due to the ionic volume exclusion. Chemically, the interface between the electrolyte and electrode is where the actual electrochemical reaction occur. The solid electrolyte interphases formed at the interface have been considered as an indispensable component to stabilize battery cycling. Nevertheless, the composition, structure, and formation mechansim of the resultant SEI haven't been understood completely.
 
@@ -63,7 +63,7 @@ Interfacial properties play an important role in the performance of the energy s
 
 Read about related work at:
 
-2.1. _**Physically**_
+b-1. _**Physically**_
 
 (1)	Wen, X.; **Yu, Z.**; Zhao, Y.; Zhang, J.; Qiao, R.; Cheng, L.; Ban, C.; Guo, J., Enabling Magnesium Anodes by Tuning the Electrode/Electrolyte Interfacial Structure. ACS Applied Materials & Interfaces 2021, 13, 52461-52468. [LINK](https://pubs.acs.org/doi/full/10.1021/acsami.1c10446)
 
@@ -80,7 +80,7 @@ Read about related work at:
 ...
 
 
-2.2. _**Chemically**_
+b-2. _**Chemically**_
 
 (1)	**Yu, Z.#**; Shi, Z.#; Bheemireddy, S. R.; Qian, K.; Li, T.; Zhang, L.; Cheng, L.; Molecular Designing and Characterizing of Novel Fluorinated Ether Solvent for Li Metal Battery. (In preparation)
 
@@ -90,11 +90,12 @@ Read about related work at:
 
 ...
 
-3. Separation
 
-  3.1 Gas-Solid separation
+C. Separation
+
+c-1. Gas-Solid separation
   
-  3.2 Desalination through GO membranes
+c-2. Desalination through GO membranes
   
-  3.3 Separation of rare earth element using ionic liquids
+c-3. Separation of rare earth element using ionic liquids
   
