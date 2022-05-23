@@ -2,7 +2,6 @@
 layout: page
 ---
 
-This page is under construction.
 
 My research objective is to develop a fundamental understanding of nanostructure-property-performance relationships of advanced energy materials using multiscale simulation methods (e.g., density functional theory calculations, atomistic/coarse-grained molecular dynamics simulations, continuum modeling, and machine learning) and to build the link between molecular insights and macroscopic properties (e.g., transport, mechanical, chemical, electrochemical, etc.). The molecular understanding of the correlation between physicochemical properties of energy materials can be extended to other functional materials including membranes, colloids, porous materials, biological materials, etc.
 
@@ -84,9 +83,9 @@ b-2. _**Chemically**_
 
 (1)	**Yu, Z.#**; Shi, Z.#; Bheemireddy, S. R.; Qian, K.; Li, T.; Zhang, L.; Cheng, L.; Molecular Designing and Characterizing of Novel Fluorinated Ether Solvent for Li Metal Battery. (In preparation)
 
-(2)	Zhao, C.; Xu, G.-L.; Yu, Z.; Zhang, L.; Huang, I.; Mo, Y.-X.; Ren, Y.; Cheng, L.; Sun, C.-J.; Ren, Y.; Zuo, X.; Li, J.-T.; Sun, S.-G.; Amine, K.; Zhao, T., A High-Energy and Long-Cycling Lithium-Sulfur Pouch Cell via a Macroporous Catalytic Cathode with Double-End Binding Sites. Nature Nanotechnology 2021, 16, 166-173. [LINK](https://www.nature.com/articles/s41565-020-00797-w)
+(2)	Zhao, C.; Xu, G.-L.; **Yu, Z.**; Zhang, L.; Huang, I.; Mo, Y.-X.; Ren, Y.; Cheng, L.; Sun, C.-J.; Ren, Y.; Zuo, X.; Li, J.-T.; Sun, S.-G.; Amine, K.; Zhao, T., A High-Energy and Long-Cycling Lithium-Sulfur Pouch Cell via a Macroporous Catalytic Cathode with Double-End Binding Sites. Nature Nanotechnology 2021, 16, 166-173. [LINK](https://www.nature.com/articles/s41565-020-00797-w)
 
-(3)	Jiang, Z.-L.; Xu, G.-L.; Yu, Z.; Zhou, T.-H.; Shi, W.-K.; Luo, C.-S.; Zhou, H.-J.; Chen, L.-B.; Sheng, W.-J.; Zhou, M.; Cheng, L.; Assary, R. S.; Sun, S.-G.; Amine, K.; Sun, H., High Rate and Long Cycle Life in Li-O2 Batteries with Highly Efficient Catalytic Cathode Configured with Co3O4 Nanoflower. Nano Energy 2019, 64, 103896. [LINK](https://www.sciencedirect.com/science/article/pii/S2211285519306032)
+(3)	Jiang, Z.-L.; Xu, G.-L.; **Yu, Z.**; Zhou, T.-H.; Shi, W.-K.; Luo, C.-S.; Zhou, H.-J.; Chen, L.-B.; Sheng, W.-J.; Zhou, M.; Cheng, L.; Assary, R. S.; Sun, S.-G.; Amine, K.; Sun, H., High Rate and Long Cycle Life in Li-O2 Batteries with Highly Efficient Catalytic Cathode Configured with Co3O4 Nanoflower. Nano Energy 2019, 64, 103896. [LINK](https://www.sciencedirect.com/science/article/pii/S2211285519306032)
 
 ...
 
