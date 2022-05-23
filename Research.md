@@ -108,4 +108,7 @@ c-2. Desalination through GO membranes
 
 c-3. Gas-Solid separation 
 
+<center>
+    <img src="https://zhou-joe-yu.github.io/assets/Cyclone.png" width="600" height="250">
+</center>
   
