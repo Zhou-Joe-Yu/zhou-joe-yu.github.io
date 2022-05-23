@@ -21,40 +21,37 @@ I am Zhou (Joe) Yu, a postdoc research associate in the Theoretical Division at 
 
 My research goal is to establish simulation and theory-driven approaches (e.g., density functional theory calculations, molecular dynamics simulations, machine learning techniques, etc.) to understand and predict bulk and interfacial physicochemical properties (e.g., structure, transport, mechanical, chemical, and electrochemical, etc.) of advanced functional materials including electrolytes, membranes, colloids, porous materials, etc. in multiple length scales ranging from molecular (Å) to nanometric domains (μm) and time scales ranging from solvation shell exchange (ps) to assembly (μs). The gained theoretical insights will accelerate the design of new materials towards broad applications in energy, chemistry, biology, and evironmental sciences.
 
+
+
+<center>
+    Personal Background in one figure
+</center>
+
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/background.png" width="650" height="329">
 </center>
 
-<p align="center">
-    Personal Background in one figure
-</p>
-
 <center>
-    Personal Background in one figure
+    LANL Group Photo
 </center>
-
-<h1 align="center">Personal Background in one figure</h1>
 
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/LANL_group.jpg" width="650" height="330">
 </center>
 
-<p align="center">
-    LANL Group Photo
-</p>
+<center>
+    Argonne Group Photo
+</center>
 
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/Argonne_group.JPG" width="650" height="330">
 </center> 
 
-<p align="center">
-    Argonne Group Photo
-</p>
+<center>
+    VT Group Photo
+</center>
 
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/VT_group.JPG" width="650" height="329">
 </center>
 
-<p align="center">
-    VT Group Photo
-</p>
