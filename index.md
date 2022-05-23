@@ -30,14 +30,25 @@ My research goal is to establish simulation and theory-driven approaches (e.g., 
 </p>
 
 <center>
-    **LANL Group Photo**
     <img src="https://zhou-joe-yu.github.io/assets/LANL_group.jpg" width="650" height="330">
 </center>
+
+<p align="center">
+    LANL Group Photo
+</p>
+
 <center>
-    **Argonne Group Photo**
     <img src="https://zhou-joe-yu.github.io/assets/Argonne_group.JPG" width="650" height="330">
-</center>    
+</center> 
+
+<p align="center">
+    Argonne Group Photo
+</p>
+
 <center>
-    **VT Group Photo**
     <img src="https://zhou-joe-yu.github.io/assets/VT_group.JPG" width="650" height="329">
 </center>
+
+<p align="center">
+    VT Group Photo
+</p>
