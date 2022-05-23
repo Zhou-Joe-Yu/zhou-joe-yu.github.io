@@ -31,7 +31,7 @@ My research goal is to establish simulation and theory-driven approaches (e.g., 
 </center>
 <center>
     Argonne Group Photo
-    <img src="https://zhou-joe-yu.github.io/assets/Argonne_group.jpg" width="650" height="330">
+    <img src="https://zhou-joe-yu.github.io/assets/Argonne_group.JPG" width="650" height="330">
 </center>    
 <center>
     VT Group Photo
