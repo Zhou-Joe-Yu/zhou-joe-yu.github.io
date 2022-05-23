@@ -21,7 +21,5 @@ I am Zhou (Joe) Yu, a postdoc research associate in the Theoretical Division at 
 
 My research goal is to establish simulation and theory-driven approaches (e.g., density functional theory calculations, molecular dynamics simulations, machine learning techniques, etc.) to understand and predict bulk and interfacial physicochemical properties (e.g., structure, transport, mechanical, chemical, and electrochemical, etc.) of advanced functional materials including electrolytes, membranes, colloids, porous materials, etc. in multiple length scales ranging from molecular (Å) to nanometric domains (μm) and time scales ranging from solvation shell exchange (ps) to assembly (μs). The gained theoretical insights will accelerate the design of new materials towards broad applications in energy, chemistry, biology, and evironmental sciences.
 
-<img src="./assets/vt.png" width="200" height="200"> 
-<img src="./assets/Argonne.png" width="200" height="200"> 
-<img src="./assets/LANL.png" width="200" height="200"> 
+<img src="./assets/vt.png" width="200" height="200"> <img src="./assets/Argonne.png" width="200" height="200"> <img src="./assets/LANL.png" width="200" height="200"> 
 
