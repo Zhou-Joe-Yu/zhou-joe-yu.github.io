@@ -21,34 +21,47 @@ Read about related work at:
 1.1. _**Liquid electrolytes**_
 
 (1)	Mistry, A.; **Yu, Z.**; Peters, B. L.; Fang, C.; Wang, R.; Curtiss, L. A.; Balsara, N. P.; Cheng, L.; Srinivasan, V.; Toward Bottom-up Understanding of Transport in Concentrated Battery electrolytes, ACS Central Science 2022 (Under review)
+
 (2)	**Yu, Z.**; Balsara, N. P.; Borodin, O.; Gewirth, A. A.; Hahn, N. T.; Maginn, E. J.; Persson, K.; Srinivasan, V.; Toney, M. F.; Xu, K.; Zavadil, K.; Curtiss, L. A.; Cheng, L., Beyond Local Solvation Structure:  Nanometric Aggregates in Battery Electrolytes and their Effect on Electrolyte Properties. ACS Energy Letters 2022, 7, 461-470. [LINK](https://pubs.acs.org/doi/10.1021/acsenergylett.1c02391)
+
 (3)	Qian, K.#; **Yu, Z.#**; Liu, Y.; Gosztola, D. J.; Winans, R. E.; Cheng, L.; Li, T., Understanding Fluorine-Free Electrolytes via Small-Angle X-Ray Scattering. Journal of Energy Chemistry 2022, 70, 340-346. [LINK](https://www.sciencedirect.com/science/article/pii/S2095495622001127) 
+
 (4)	**Yu, Z.**; Juran, T. R.; Liu, X.; Han, K. S.; Wang, H.; Mueller, K. T.; Li, T.; Curtiss, L. A.; Cheng, L., Solvation Structure and Dynamics of Mg(TFSI)2 Aqueous Electrolyte. Energy & Environmental Materials 2021, 0, 1-10. [LINK](https://onlinelibrary.wiley.com/doi/full/10.1002/eem2.12174)
+
 (5)	Zhao, Y.#; **Yu, Z.#**; Robertson, L. A.; Zhang, J.; Shi, Z.; Bheemireddy, S. R.; Shkrob, I. A.; Li, T.; Zhang, Z.; Cheng, L.; Zhang, L., Unexpected Electrochemical Behavior of an Anolyte Redoxmer in Flow Battery Electrolytes: Solvating Cations Help to Fight against the Thermodynamic–Kinetic Dilemma. Journal of Materials Chemistry A 2020, 8, 13470-13479. [LINK](https://pubs.rsc.org/en/content/articlelanding/2020/ta/d0ta02214d)
+
 (6)	**Yu, Z.**; Curtiss, L. A.; Winans, R. E.; Zhang, Y.; Li, T.; Cheng, L., Asymmetric Composition of Ionic Aggregates and the Origin of High Correlated Transference Number in Water-in-Salt Electrolytes. The Journal of Physical Chemistry Letters 2020, 11, 1276-1281. [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03495)
+
 (7)	Hahn, N. T.; Driscoll, D. M.; **Yu, Z.**; Sterbinsky, G. E.; Cheng, L.; Balasubramanian, M.; Zavadil, K. R., The Influence of Ether Solvent and Anion Coordination on Electrochemical Behavior in Calcium Battery Electrolytes. ACS Applied Energy Materials 2020, 3, 8337-8447. [LINK](https://pubs.acs.org/doi/10.1021/acsaem.0c01070)
+
 ......
   
 1.2. _**Polymer electrolytes**_
 
 (1) Peters, B. L.; **Yu, Z.**; Redfern, P. C.; Curtiss, L. A.; Cheng, L., Effects of Salt Aggregation in Perfluoroether Electrolytes. Journal of the Electrochemical Society 2022, 169, 020506. [LINK](https://iopscience.iop.org/article/10.1149/1945-7111/ac4c7a)
+
 (2) **Yu, Z.**; Balsara, N. P.; Borodin, O.; Gewirth, A. A.; Hahn, N. T.; Maginn, E. J.; Persson, K.; Srinivasan, V.; Toney, M. F.; Xu, K.; Zavadil, K.; Curtiss, L. A.; Cheng, L., Beyond Local Solvation Structure:  Nanometric Aggregates in Battery Electrolytes and their Effect on Electrolyte Properties. ACS Energy Letters 2022, 7, 461-470. [LINK](https://pubs.acs.org/doi/10.1021/acsenergylett.1c02391)
+
 (3) Wang, Y.; He, Y.; **Yu, Z.**; Gao, J.; Ten Brinck, S.; Slebodnick, C.; Fahs, G. B.; Zanelotti, C. J.; Hegde, M.; Moore, R. B.; Ensing, B.; Dingemans, T. J.; Qiao, R.; Madsen, L. A., Double Helical Conformation and Extreme Rigidity in a Rodlike Polyelectrolyte. Nature Communications 2019, 10, 1-8. [LINK](https://www.nature.com/articles/s41467-019-08756-3)  
+
 (4) **Yu, Z.**; Yang, F.; Dai, S.; Qiao, R., Structure and Dynamics of Polymeric Canopies in Nanoscale Ionic Materials: An Electrical Double Layer Perspective. Scientific Reports 2018, 8, 1-11. [LINK](https://www.nature.com/articles/s41598-018-23493-1) 
+
 (5) **Yu, Z.**; Fang, C.; Huang, J.; Sumpter, B. G.; Qiao, R., Molecular Structure and Dynamics of Interfacial Polymerized Ionic Liquids. The Journal of Physical Chemistry C 2018, 122, 22494-22503. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b06065)
+
 (6)	**Yu, Z.**; He, Y.; Wang, Y.; Madsen, L. A.; Qiao, R., Molecular Structure and Dynamics of Ionic Liquids in a Rigid-Rod Polyanion-Based Ion Gel. Langmuir 2017, 33, 322-331. [LINK](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.6b03798)
+
 ......
-
-
-
-
-
-
 
 
 2. _**Interfacial and transport phenomena**_ involved in energy storage and conversion process
 
 Interfacial properties play an important role in the performance of the energy storage and conversion facilities including batteries and supercapacitors. The study of the interface between electrolyte and electrode can be divided into two aspects. Physically, the classical theories for electric double layers (EDLs) in dilute electrolytes and high-temperature molten salts might not accurately describe EDLs at the interface between electrolytes with nanometric ionic aggregates and strongly electriofied surfaces due to the ionic volume exclusion. Chemically, the interface between the electrolyte and electrode is where the actual electrochemical reaction occur. The solid electrolyte interphases formed at the interface have been considered as an indispensable component to stabilize battery cycling. Nevertheless, the composition, structure, and formation mechansim of the resultant SEI haven't been understood completely.
+
+<center>
+    <img src="https://zhou-joe-yu.github.io/assets/Interface.png" width="700" height="500">
+</center>
+
+Read about related work at:
 
 2.1. _**Physically**_
 
