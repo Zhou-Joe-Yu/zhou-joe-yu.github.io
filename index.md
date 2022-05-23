@@ -35,5 +35,5 @@ My research goal is to establish simulation and theory-driven approaches (e.g., 
 </center>    
 <center>
     VT Group Photo
-    <img src="https://zhou-joe-yu.github.io/assets/VT_group.jpg" width="650" height="329">
+    <img src="https://zhou-joe-yu.github.io/assets/VT_group.JPG" width="650" height="329">
 </center>
