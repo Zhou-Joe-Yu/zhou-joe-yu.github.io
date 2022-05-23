@@ -98,11 +98,15 @@ c-1. Separation of rare earth element using ionic liquids
     <img src="https://zhou-joe-yu.github.io/assets/Extraction.png" width="500" height="250">
 </center>
 
+My current work at Los Alamos National Laboratory is focusing on the molecular understanding of rare earth elements (REEs) separation using ionic liquids. REEs are important ingredients for a variety of applications including electronics, catalysts, powerful magnets, etc. Although several seminal studies shed lights on the application of ILs for REEs separations to achieve high extraction efficiency and separation factors, molecular understanding on the extraction mechanism is still in its infancy due to the complexity of the system and the limitations of experimental methods. This project is rationally and progressively prioritized into two phases. Phase A: Molecular understanding of the conventional extraction mechanisms (e.g., anion-exchange, cation-exchange, and solvation mechanism). Phase B: Novel separation schemes induced by interfacial effects, electric fields, and magnetic fields.
+
 c-2. Desalination through GO membranes
 
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/Desalination.png" width="700" height="250">
 </center>
+
+I have been involved in a project about the desalination through GO membranes, which elucidated the effects of surface ionization on water transport and salt leakage through graphene oxide membranes. More details are in the following paper.
 
 (1) Fang, C.; **Yu, Z.**; Qiao, R., Impact of Surface Ionization on Water Transport and Salt Leakage through Graphene Oxide Membranes. The Journal of Physical Chemistry C 2017, 121, 13412-13420. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpcc.7b04283)
 
@@ -111,4 +115,8 @@ c-3. Gas-Solid separation
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/Cyclone.png" width="600" height="250">
 </center>
-  
+
+During my master study at Shandong University in China, I have designed and optimized the structure and dimension of a dynamic cyclone to improve the gas-solid separation efficiency using experiments and simulations.
+
+(1) **Yu, Z.**; Zhao, M.; Ma, C., Experimental and Numerical Investigations of a Dynamic Cyclone. Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy 2014, 228, 536-549. [LINK](https://journals.sagepub.com/doi/abs/10.1177/0957650914534839)
+
