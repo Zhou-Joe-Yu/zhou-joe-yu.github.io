@@ -101,8 +101,10 @@ c-1. Separation of rare earth element using ionic liquids
 c-2. Desalination through GO membranes
 
 <center>
-    <img src="https://zhou-joe-yu.github.io/assets/Extraction.png" width="700" height="250">
+    <img src="https://zhou-joe-yu.github.io/assets/Desalination.png" width="700" height="250">
 </center>
+
+(1) Fang, C.; **Yu, Z.**; Qiao, R., Impact of Surface Ionization on Water Transport and Salt Leakage through Graphene Oxide Membranes. The Journal of Physical Chemistry C 2017, 121, 13412-13420. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpcc.7b04283)
 
 c-3. Gas-Solid separation 
 
