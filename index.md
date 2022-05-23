@@ -24,6 +24,15 @@ My research goal is to establish simulation and theory-driven approaches (e.g., 
 <center>
     Personal Background in one figure
     <img src="https://zhou-joe-yu.github.io/assets/background.png" width="650" height="329">
+    
+    LANL Group Photo
+    <img src="https://zhou-joe-yu.github.io/assets/LANL_group.jpg" width="650" height="330">
+    
+    Argonne Group Photo
+    <img src="https://zhou-joe-yu.github.io/assets/Argonne_group.jpg" width="650" height="330">
+    
+    VT Group Photo
+    <img src="https://zhou-joe-yu.github.io/assets/VT_group.jpg" width="650" height="329">
 </center>
 
 
