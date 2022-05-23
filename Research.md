@@ -65,11 +65,30 @@ Read about related work at:
 
 2.1. _**Physically**_
 
+(1)	Wen, X.; **Yu, Z.**; Zhao, Y.; Zhang, J.; Qiao, R.; Cheng, L.; Ban, C.; Guo, J., Enabling Magnesium Anodes by Tuning the Electrode/Electrolyte Interfacial Structure. ACS Applied Materials & Interfaces 2021, 13, 52461-52468. [LINK](https://pubs.acs.org/doi/full/10.1021/acsami.1c10446)
+
+(2) **Yu, Z.**; Yang, F.; Dai, S.; Qiao, R., Structure and Dynamics of Polymeric Canopies in Nanoscale Ionic Materials: An Electrical Double Layer Perspective. Scientific Reports 2018, 8, 1-11. [LINK](https://www.nature.com/articles/s41598-018-23493-1)
+
+(3) **Yu, Z.**; Fang, C.; Huang, J.; Sumpter, B. G.; Qiao, R., Solvate Ionic Liquids at Electrified Interfaces. ACS Applied Materials & Interfaces 2018, 10, 32151-32161. [LINK](https://pubs.acs.org/doi/10.1021/acsami.8b10387)
+
+(4)	**Yu, Z.**; Fang, C.; Huang, J.; Sumpter, B. G.; Qiao, R., Molecular Structure and Dynamics of Interfacial Polymerized Ionic Liquids. The Journal of Physical Chemistry C 2018, 122, 22494-22503. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b06065)
+
+(5)	Zhang, F.; **Yu, Z.**; Rondinone, A. J.; Huang, J.; Sumpter, B. G.; Qiao, R., Adsorption of Molecular Nitrogen in Electrical Double Layers near Planar and Atomically Sharp Electrodes. Langmuir 2018, 34, 14552-14561. [LINK](https://pubs.acs.org/doi/10.1021/acs.langmuir.8b03161)
+
+(6)	**Yu, Z.**; Zhang, F.; Huang, J.; Sumpter, B. G.; Qiao, R., Ionic Liquids-Mediated Interactions between Nanorods. The Journal of Chemical Physics 2017, 147, 134704. [LINK](https://aip.scitation.org/doi/10.1063/1.5005541)
+
+...
+
 
 2.2. _**Chemically**_
 
+(1)	**Yu, Z.#**; Shi, Z.#; Bheemireddy, S. R.; Qian, K.; Li, T.; Zhang, L.; Cheng, L.; Molecular Designing and Characterizing of Novel Fluorinated Ether Solvent for Li Metal Battery. (In preparation)
 
+(2)	Zhao, C.; Xu, G.-L.; Yu, Z.; Zhang, L.; Huang, I.; Mo, Y.-X.; Ren, Y.; Cheng, L.; Sun, C.-J.; Ren, Y.; Zuo, X.; Li, J.-T.; Sun, S.-G.; Amine, K.; Zhao, T., A High-Energy and Long-Cycling Lithium-Sulfur Pouch Cell via a Macroporous Catalytic Cathode with Double-End Binding Sites. Nature Nanotechnology 2021, 16, 166-173. [LINK](https://www.nature.com/articles/s41565-020-00797-w)
 
+(3)	Jiang, Z.-L.; Xu, G.-L.; Yu, Z.; Zhou, T.-H.; Shi, W.-K.; Luo, C.-S.; Zhou, H.-J.; Chen, L.-B.; Sheng, W.-J.; Zhou, M.; Cheng, L.; Assary, R. S.; Sun, S.-G.; Amine, K.; Sun, H., High Rate and Long Cycle Life in Li-O2 Batteries with Highly Efficient Catalytic Cathode Configured with Co3O4 Nanoflower. Nano Energy 2019, 64, 103896. [LINK](https://www.sciencedirect.com/science/article/pii/S2211285519306032)
+
+...
 
 3. Separation
 
