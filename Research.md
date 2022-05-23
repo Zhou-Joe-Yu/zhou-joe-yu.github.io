@@ -11,7 +11,10 @@ Below, I outline some of the projects.
 1. _**Structure-property-performace**_ relationships in novel battery electrolytes including _**liquid electrolytes**_ and _**polymer electrolytes**_
 
 Nanostructure of battery electrolytes, especially the solvation environment of cation, is critical to affecting the property of battery electrolytes and further affecting the performance of related energy storage and conversion devices. For example, the ion pair condition can impact the ionic conductivity and the solvation structure corresponds to the electrochemical stability. High ionic conductivity is needed for supporting the high current density required for fast charging and discharging rates of energy storage devices, and wide electrochemical window will contribute to high energy density of energy storage devices. Therefore, a fundamental understanding of structure-property-performance relationship in many novel electrolytes (e.g., super-concentrated, redox-flow, multivalent, polymer, and ionic liquid-based electrolytes) is highly desired.
-  
+
+<center>
+    <img src="https://zhou-joe-yu.github.io/assets/Electrolyte.png" width="1000" height="500">
+</center>
   
 1.1. _**Liquid electrolytes**_
   
