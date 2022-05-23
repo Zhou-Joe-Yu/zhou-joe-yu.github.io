@@ -20,9 +20,21 @@ Read about related work at:
   
 1.1. _**Liquid electrolytes**_
 
+(1)	Mistry, A.; **Yu, Z.**; Peters, B. L.; Fang, C.; Wang, R.; Curtiss, L. A.; Balsara, N. P.; Cheng, L.; Srinivasan, V.; Toward Bottom-up Understanding of Transport in Concentrated Battery electrolytes, ACS Central Science 2022 (Under review)
 
+(2)	**Yu, Z.**; Balsara, N. P.; Borodin, O.; Gewirth, A. A.; Hahn, N. T.; Maginn, E. J.; Persson, K.; Srinivasan, V.; Toney, M. F.; Xu, K.; Zavadil, K.; Curtiss, L. A.; Cheng, L., Beyond Local Solvation Structure:  Nanometric Aggregates in Battery Electrolytes and their Effect on Electrolyte Properties. ACS Energy Letters 2022, 7, 461-470. [LINK](https://pubs.acs.org/doi/10.1021/acsenergylett.1c02391)
 
+(3)	Qian, K.#; **Yu, Z.#**; Liu, Y.; Gosztola, D. J.; Winans, R. E.; Cheng, L.; Li, T., Understanding Fluorine-Free Electrolytes via Small-Angle X-Ray Scattering. Journal of Energy Chemistry 2022, 70, 340-346. [LINK](https://www.sciencedirect.com/science/article/pii/S2095495622001127) 
 
+(4)	**Yu, Z.**; Juran, T. R.; Liu, X.; Han, K. S.; Wang, H.; Mueller, K. T.; Li, T.; Curtiss, L. A.; Cheng, L., Solvation Structure and Dynamics of Mg(TFSI)2 Aqueous Electrolyte. Energy & Environmental Materials 2021, 0, 1-10. [LINK](https://onlinelibrary.wiley.com/doi/full/10.1002/eem2.12174)
+
+(5)	Zhao, Y.#; **Yu, Z.#**; Robertson, L. A.; Zhang, J.; Shi, Z.; Bheemireddy, S. R.; Shkrob, I. A.; Li, T.; Zhang, Z.; Cheng, L.; Zhang, L., Unexpected Electrochemical Behavior of an Anolyte Redoxmer in Flow Battery Electrolytes: Solvating Cations Help to Fight against the Thermodynamic–Kinetic Dilemma. Journal of Materials Chemistry A 2020, 8, 13470-13479. [LINK](https://pubs.rsc.org/en/content/articlelanding/2020/ta/d0ta02214d)
+
+(6)	**Yu, Z.**; Curtiss, L. A.; Winans, R. E.; Zhang, Y.; Li, T.; Cheng, L., Asymmetric Composition of Ionic Aggregates and the Origin of High Correlated Transference Number in Water-in-Salt Electrolytes. The Journal of Physical Chemistry Letters 2020, 11, 1276-1281. [LINK](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.9b03495)
+
+(7)	Hahn, N. T.; Driscoll, D. M.; **Yu, Z.**; Sterbinsky, G. E.; Cheng, L.; Balasubramanian, M.; Zavadil, K. R., The Influence of Ether Solvent and Anion Coordination on Electrochemical Behavior in Calcium Battery Electrolytes. ACS Applied Energy Materials 2020, 3, 8337-8447. [LINK](https://pubs.acs.org/doi/10.1021/acsaem.0c01070)
+
+......
   
 1.2. _**Polymer electrolytes**_
   
