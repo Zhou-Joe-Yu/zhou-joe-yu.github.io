@@ -92,9 +92,14 @@ b-2. _**Chemically**_
 
 C. Separation
 
-c-1. Gas-Solid separation
-  
+c-1. Separation of rare earth element using ionic liquids
+
+<center>
+    <img src="https://zhou-joe-yu.github.io/assets/Extraction.png" width="500" height="250">
+</center>
+
 c-2. Desalination through GO membranes
-  
-c-3. Separation of rare earth element using ionic liquids
+
+c-3. Gas-Solid separation 
+
   
