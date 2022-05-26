@@ -26,7 +26,7 @@ My research goal is to establish <span style="color:blue">simulation and theory-
 </center>
 
 <center>
-    <span style="color:blue">Personal Background in one figure</span>
+    <span style="color:blue">**Personal Background in one figure**</span>
 </center>
 
 <center>
@@ -34,7 +34,7 @@ My research goal is to establish <span style="color:blue">simulation and theory-
 </center>
 
 <center>
-    LANL Group Photo
+    <span style="color:blue">**LANL Group Photo**</span>
 </center>
 
 <center>
@@ -42,7 +42,7 @@ My research goal is to establish <span style="color:blue">simulation and theory-
 </center> 
 
 <center>
-    Argonne Group Photo
+    <span style="color:blue">**Argonne Group Photo**</span>
 </center>
 
 <center>
@@ -50,5 +50,5 @@ My research goal is to establish <span style="color:blue">simulation and theory-
 </center>
 
 <center>
-    VT Group Photo
+    <span style="color:blue">**VT Group Photo**</span>
 </center>
