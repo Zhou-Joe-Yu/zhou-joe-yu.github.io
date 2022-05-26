@@ -17,9 +17,9 @@ I am Zhou (Joe) Yu, a postdoc research associate in the Theoretical Division at 
 ---**Email:** joeyu.vt@gmail.com
 
 **RESEARCH EXPERTISE AND INTERESTS**
-1. Multiscale simulations including molecular dynamics simulations, density functional theory calculations, and machine learning techniques on advanced functional materials
-2. Structure-property-performance relationships in novel battery electrolytes including liquid electrolytes and polymer electrolytes
-3. Interfacial and transport phenomena involved in energy storage and conversion process 
+1. <span style="color:blue">**Multiscale simulations**</span> including molecular dynamics simulations, density functional theory calculations, and machine learning techniques on <span style="color:blue">**advanced functional materials**</span>
+2. <span style="color:blue">**Structure-property-performance relationships**</span> in novel battery electrolytes including <span style="color:blue">**liquid**</span> electrolytes and <span style="color:blue">**polymer**</span> electrolytes
+3. <span style="color:blue">**Interfacial and transport phenomena**</span> involved in energy storage and conversion process 
 
 
 **RESEARCH GOAL**
