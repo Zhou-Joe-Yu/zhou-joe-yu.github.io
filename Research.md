@@ -7,7 +7,7 @@ My research objective is to develop a fundamental understanding of nanostructure
 
 Below, I outline some of the projects.
 
-A. _**Structure-property-performace**_ relationships in novel battery electrolytes including _**liquid electrolytes**_ and _**polymer electrolytes**_
+<span style="color:blue">**A. Structure-property-performace relationships in novel battery electrolytes including liquid electrolytes and polymer electrolytes**</span>
 
 Nanostructure of battery electrolytes, especially the solvation environment of cation, is critical to affecting the property of battery electrolytes and further affecting the performance of related energy storage and conversion devices. For example, the ion pair condition can impact the ionic conductivity and the solvation structure corresponds to the electrochemical stability. High ionic conductivity is needed for supporting the high current density required for fast charging and discharging rates of energy storage devices, and wide electrochemical window will contribute to high energy density of energy storage devices. Therefore, a fundamental understanding of structure-property-performance relationship in many novel electrolytes (e.g., super-concentrated, redox-flow, multivalent, polymer, and ionic liquid-based electrolytes) is highly desired.
 
@@ -17,7 +17,7 @@ Nanostructure of battery electrolytes, especially the solvation environment of c
 
 Read about related work at:
   
-a-1. _**Liquid electrolytes**_
+<span style="color:blue">a-1. Liquid electrolytes</span>
 
 (1)	Mistry, A.; **Yu, Z.**; Peters, B. L.; Fang, C.; Wang, R.; Curtiss, L. A.; Balsara, N. P.; Cheng, L.; Srinivasan, V.; Toward Bottom-up Understanding of Transport in Concentrated Battery electrolytes, ACS Central Science 2022 (Under review)
 
@@ -35,7 +35,7 @@ a-1. _**Liquid electrolytes**_
 
 ......
   
-a-2. _**Polymer electrolytes**_
+<span style="color:blue">a-2. Polymer electrolytes</span>
 
 (1) Peters, B. L.; **Yu, Z.**; Redfern, P. C.; Curtiss, L. A.; Cheng, L., Effects of Salt Aggregation in Perfluoroether Electrolytes. Journal of the Electrochemical Society 2022, 169, 020506. [LINK](https://iopscience.iop.org/article/10.1149/1945-7111/ac4c7a)
 
@@ -52,7 +52,7 @@ a-2. _**Polymer electrolytes**_
 ......
 
 
-B. _**Interfacial and transport phenomena**_ involved in energy storage and conversion process
+<span style="color:blue">**B. Interfacial and transport phenomena involved in energy storage and conversion process**</span>
 
 Interfacial properties play an important role in the performance of the energy storage and conversion facilities including batteries and supercapacitors. The study of the interface between electrolyte and electrode can be divided into two aspects. Physically, the classical theories for electric double layers (EDLs) in dilute electrolytes and high-temperature molten salts might not accurately describe EDLs at the interface between electrolytes with nanometric ionic aggregates and strongly electriofied surfaces due to the ionic volume exclusion. Chemically, the interface between the electrolyte and electrode is where the actual electrochemical reaction occur. The solid electrolyte interphases formed at the interface have been considered as an indispensable component to stabilize battery cycling. Nevertheless, the composition, structure, and formation mechansim of the resultant SEI haven't been understood completely.
 
@@ -62,7 +62,7 @@ Interfacial properties play an important role in the performance of the energy s
 
 Read about related work at:
 
-b-1. _**Physically**_
+<span style="color:blue">b-1. Physically</span>
 
 (1)	Wen, X.; **Yu, Z.**; Zhao, Y.; Zhang, J.; Qiao, R.; Cheng, L.; Ban, C.; Guo, J., Enabling Magnesium Anodes by Tuning the Electrode/Electrolyte Interfacial Structure. ACS Applied Materials & Interfaces 2021, 13, 52461-52468. [LINK](https://pubs.acs.org/doi/full/10.1021/acsami.1c10446)
 
@@ -79,7 +79,7 @@ b-1. _**Physically**_
 ...
 
 
-b-2. _**Chemically**_
+<span style="color:blue">b-2. Chemically</span>
 
 (1)	**Yu, Z.#**; Shi, Z.#; Bheemireddy, S. R.; Qian, K.; Li, T.; Zhang, L.; Cheng, L.; Molecular Designing and Characterizing of Novel Fluorinated Ether Solvent for Li Metal Battery. (In preparation)
 
@@ -90,9 +90,9 @@ b-2. _**Chemically**_
 ...
 
 
-C. Separation
+<span style="color:blue">**C. Separation**</span>
 
-c-1. Separation of rare earth element using ionic liquids
+<span style="color:blue">c-1. Separation of rare earth element using ionic liquids</span>
 
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/Extraction.png" width="500" height="250">
@@ -100,7 +100,7 @@ c-1. Separation of rare earth element using ionic liquids
 
 My current work at Los Alamos National Laboratory is focusing on the molecular understanding of rare earth elements (REEs) separation using ionic liquids. REEs are important ingredients for a variety of applications including electronics, catalysts, powerful magnets, etc. Although several seminal studies shed lights on the application of ILs for REEs separations to achieve high extraction efficiency and separation factors, molecular understanding on the extraction mechanism is still in its infancy due to the complexity of the system and the limitations of experimental methods. This project is rationally and progressively prioritized into two phases. Phase A: Molecular understanding of the conventional extraction mechanisms (e.g., anion-exchange, cation-exchange, and solvation mechanism). Phase B: Novel separation schemes induced by interfacial effects, electric fields, and magnetic fields.
 
-c-2. Desalination through GO membranes
+<span style="color:blue">c-2. Desalination through GO membranes</span>
 
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/Desalination.png" width="700" height="250">
@@ -110,7 +110,7 @@ I have been involved in a project about the desalination through GO membranes, w
 
 (1) Fang, C.; **Yu, Z.**; Qiao, R., Impact of Surface Ionization on Water Transport and Salt Leakage through Graphene Oxide Membranes. The Journal of Physical Chemistry C 2017, 121, 13412-13420. [LINK](https://pubs.acs.org/doi/10.1021/acs.jpcc.7b04283)
 
-c-3. Gas-Solid separation 
+<span style="color:blue">c-3. Gas-Solid separation</span> 
 
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/Cyclone.png" width="600" height="250">
