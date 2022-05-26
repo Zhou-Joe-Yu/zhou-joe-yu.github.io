@@ -11,7 +11,7 @@ title: "Welcome"
 
 <span style="color:blue">some **blue** text</span>.
 
-I am Zhou (Joe) Yu, a postdoc research associate in the Theoretical Division at Los Alamos National Laboratory since November 2021. Before that, I was a postdoctoral appointee in the Materials Science Division at Argonne National Laboratory from February 2019 to November 2021. I earned my Ph.D. in the Department of Mechanical Engineering at Virginia Tech in December 2018.
+I am Zhou (Joe) Yu, a postdoc research associate in the Theoretical Division at <span style="color:blue">Los Alamos National Laboratory</span> since November 2021. Before that, I was a postdoctoral appointee in the Materials Science Division at <span style="color:blue">Argonne National Laboratory</span> from February 2019 to November 2021. I earned my Ph.D. in the Department of Mechanical Engineering at <span style="color:blue">Virginia Tech</span> in December 2018.
 
 ---**Office:** TA-03-123-279, LANL, Los Alamos, NM, 87544      
 ---**Email:** joeyu.vt@gmail.com
