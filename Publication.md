@@ -8,7 +8,11 @@ layout: page
 
 (18)	**Yu, Z.#**; Shi, Z.#; Bheemireddy, S. R.; Qian, K.; Li, T.; Zhang, L.; Cheng, L.; Molecular Designing and Characterizing of Novel Fluorinated Ether Solvent for Li Metal Battery. (In preparation)
 
-(17)	Mistry, A.; **Yu, Z.**; Peters, B. L.; Fang, C.; Wang, R.; Curtiss, L. A.; Balsara, N. P.; Cheng, L.; Srinivasan, V.; Toward Bottom-up Understanding of Transport in Concentrated Battery electrolytes, ACS Central Science 2022 (Under review)
+(17)	Mistry, A.; **Yu, Z.**; Peters, B. L.; Fang, C.; Wang, R.; Curtiss, L. A.; Balsara, N. P.; Cheng, L.; Srinivasan, V.; Toward Bottom-up Understanding of Transport in Concentrated Battery electrolytes, ACS Central Science 2022 (Accepted). [LINK](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00348)
+
+<center>
+    <img src="https://zhou-joe-yu.github.io/assets/ACS_CEN_2022.png" width="450" height="250">
+</center>
 
 (16)	**Yu, Z.**; Balsara, N. P.; Borodin, O.; Gewirth, A. A.; Hahn, N. T.; Maginn, E. J.; Persson, K.; Srinivasan, V.; Toney, M. F.; Xu, K.; Zavadil, K.; Curtiss, L. A.; Cheng, L., Beyond Local Solvation Structure:  Nanometric Aggregates in Battery Electrolytes and their Effect on Electrolyte Properties. ACS Energy Letters 2022, 7, 461-470. [LINK](https://pubs.acs.org/doi/10.1021/acsenergylett.1c02391)
 
