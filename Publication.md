@@ -2,13 +2,15 @@
 layout: page
 ---
 
-**Full publications** are summarized in [**google scholar**](https://scholar.google.com/citations?hl=en&user=vdyQoyoAAAAJ&view_op=list_works&sortby=pubdate) (> 35 papers with > 650 citations)
+**Full publications** are summarized in [**google scholar**](https://scholar.google.com/citations?hl=en&user=vdyQoyoAAAAJ&view_op=list_works&sortby=pubdate) (> 40 papers with > 800 citations)
 
 **Selected Peer Reviewed Journal Papers** (**#equal contribution**)
 
-(18)	**Yu, Z.#**; Shi, Z.#; Bheemireddy, S. R.; Qian, K.; Li, T.; Zhang, L.; Cheng, L.; Molecular Designing and Characterizing of Novel Fluorinated Ether Solvent for Li Metal Battery. (In preparation)
+(19)	Mistry, A.; **Yu, Z.**; Cheng, L.; Srinivasan, V.; On Relative Importance of Correlated and Uncorrelated Molecular Motions in Defining Electrolyte Transport. (In preparation)
 
-(17)	Mistry, A.; **Yu, Z.**; Peters, B. L.; Fang, C.; Wang, R.; Curtiss, L. A.; Balsara, N. P.; Cheng, L.; Srinivasan, V.; Toward Bottom-up Understanding of Transport in Concentrated Battery electrolytes, ACS Central Science 2022 (Accepted). [LINK](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00348)
+(18)	**Yu, Z.#**; Shi, Z.#; Bheemireddy, S. R.; Kamphause, E.; An, B.; Uddin, M. A.; Li, Z.; Yang, Z.; Xu, K.; Li, T.; Moore, J. S.; Zhang, L.; Cheng, L.; Simulation Guided Molecular Design of Hydrofluoroether Solvent for High Energy Batteries. (In preparation)
+
+(17)	Mistry, A.; **Yu, Z.**; Peters, B. L.; Fang, C.; Wang, R.; Curtiss, L. A.; Balsara, N. P.; Cheng, L.; Srinivasan, V.; Toward Bottom-up Understanding of Transport in Concentrated Battery electrolytes, ACS Central Science 2022, 8, 880-890. [LINK](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00348)
 
 <center>
     <img src="https://zhou-joe-yu.github.io/assets/ACS_CEN_2022.png" width="450" height="250">
