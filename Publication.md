@@ -2,7 +2,7 @@
 layout: page
 ---
 
-**Full publications** are summarized in [**google scholar**](https://scholar.google.com/citations?hl=en&user=vdyQoyoAAAAJ&view_op=list_works&sortby=pubdate) (> 40 papers with > 800 citations)
+**Full publications** are summarized in [**google scholar**](https://scholar.google.com/citations?hl=en&user=vdyQoyoAAAAJ&view_op=list_works&sortby=pubdate) (> 40 papers with > 1300 citations)
 
 **Selected Peer Reviewed Journal Papers** (**#equal contribution**)
 
